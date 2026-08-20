@@ -5,7 +5,7 @@
 ## 关于我们
 
 - **所在地：** 新疆维吾尔自治区乌鲁木齐市新市区
-- **音乐游戏：** maimai、CHUNITHM、音击（ONGEKI）、beatmania IIDX、SOUND VOLTEX 等
+- **音乐游戏：** maimai、CHUNITHM、ONGEKI、beatmania IIDX、SOUND VOLTEX 等
 - **其他游戏设备：** PlayStation、Nintendo、Xbox 等多个世代的主机与掌机
 - **乐器：** 吉他、小提琴、尤克里里、MIDI 键盘、贝斯、架子鼓等
 
