@@ -18,4 +18,4 @@
 
 ## 社团主页
 
-更多信息和近期游玩动态，请访问我们的 [Majdata 社团主页](https://majdata.net/space?id=%E6%96%B0%E7%96%86%E6%96%B0%E5%AE%BF%E9%9F%B3%E6%B8%B8%E7%A4%BE)。
+更多信息和近期游玩动态，请访问我们的qq群， [Majdata 社团主页](https://majdata.net/space?id=%E6%96%B0%E7%96%86%E6%96%B0%E5%AE%BF%E9%9F%B3%E6%B8%B8%E7%A4%BE)。
