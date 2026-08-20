@@ -1,10 +1,9 @@
 # 新疆新宿音游社
 
-欢迎来到新疆新宿音游社的 GitHub 主页。我们位于新疆乌鲁木齐，主要维护社团工具、AstrBot 插件及音乐游戏相关开源项目。
+我们主要维护社团工具、AstrBot 插件及音乐游戏相关开源项目。
 
 ## 关于我们
 
-- **所在地：** 新疆维吾尔自治区乌鲁木齐市新市区
 - **音乐游戏：** maimai、CHUNITHM、ONGEKI、beatmania IIDX、SOUND VOLTEX 等
 - **其他游戏设备：** PlayStation、Nintendo、Xbox 等多个世代的主机与掌机
 - **乐器：** 吉他、小提琴、尤克里里、MIDI 键盘、贝斯、架子鼓等
