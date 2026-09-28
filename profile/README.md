@@ -13,7 +13,6 @@
 | 项目 | 简介 |
 | --- | --- |
 | [astrbot_plugin_shinjuku](https://github.com/XINJIANGXINSU/astrbot_plugin_shinjuku) | 为新宿音游社开发的 AstrBot 计费插件 |
-| [astrbot_plugin_shinjuku_mahjong](https://github.com/XINJIANGXINSU/astrbot_plugin_shinjuku_mahjong) | 整桌图片识别、雀魂规则算分、牌局记账与段位系统 |
 | [astrbot_plugin_shinjuku_entertainment](https://github.com/XINJIANGXINSU/astrbot_plugin_shinjuku_entertainment) | 群聊娱乐与管理插件，提供关键词触发和趣味管理功能 |
 
 ## 社团主页
